@@ -79,6 +79,9 @@
       console.log(generateUniqueId())
       saveTransactionsToLocalStorage()
 
+    alert("hello")
+    alert("hello2")
+
     };
     // alert("hello")
 
