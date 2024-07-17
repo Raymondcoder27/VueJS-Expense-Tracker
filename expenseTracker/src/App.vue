@@ -80,8 +80,8 @@
       saveTransactionsToLocalStorage()
 
     alert("hello")
-    alert("hello2")
-    alert("hello2")
+    alert("hello")
+    alert("hello")
 
     };
     // alert("hello")
