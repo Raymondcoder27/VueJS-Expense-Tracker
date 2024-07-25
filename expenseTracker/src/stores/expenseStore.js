@@ -6,10 +6,10 @@ export const useExpenseStore = defineStore('expenseStore', {
             TransactionList,
             Balance 
     },
-    actions:() => {
+    actions() {
 
     },
-    getters:() => {
+    getters() {
 
     }
 })
