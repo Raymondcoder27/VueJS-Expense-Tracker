@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h3>Add new Transaction</h3>
+    <h3>Add a new Transaction</h3>
     <form @submit.prevent="onSubmit"  id="form">
       <div class="form-control">
         <label for="text">Text</label>
