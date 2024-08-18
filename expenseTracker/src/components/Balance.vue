@@ -1,7 +1,7 @@
 <template>
     <div>
     <h4>YOUR BALANCE</h4>
-    <h1 id="balance">UGX. {{ total }}</h1>
+    <h1 id="balance">UGX.{{ total }}</h1>
     </div>
 </template>
 
