@@ -5,11 +5,5 @@ export const useExpenseStore = defineStore('expenseStore', {
             IncomeExpenses, 
             TransactionList,
             Balance 
-    },
-    actions() {
-
-    },
-    getters() {
-
     }
 })
